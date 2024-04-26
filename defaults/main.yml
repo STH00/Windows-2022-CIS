@@ -14,7 +14,7 @@ win22cis_section05: true
 
 # Section 9 Windows Defender Firewall with Advanced Security (formerly Windows Firewall with Advanced Security)
 # 9.1.x Domain Profile, 9.2.x Private Profile, 9.3.x Public Profile
-win22cis_section09: false
+win22cis_section09: true
 
 # Section 17 Advanced Audit Policy Configuration
 # 17.1.x Account Logon, 17.2.x Account Management, 17.3.x Detailed Tracking, 17.4.x DS Access, 17.5.x Logon/Logoff
